@@ -1,0 +1,293 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem{amino-acid}
+Amino acid, \url{https://en.wikipedia.org/wiki/Amino_acid} (2017).
+
+\bibitem{Agrawal1995Mining}
+R.~Agrawal, R.~Srikant, Mining sequential patterns, in: ICDE, 1995.
+
+\bibitem{Andradeab2000Automated}
+M.~Andradeab, P.~Borkab, Automated extraction of information in molecular
+  biology, Febs Letters 476~(1--2) (2000) 12--17.
+
+\bibitem{Chen2006Efficient}
+G.~Chen, X.-D. Wu, X.-Q. Zhu, A.~N. Arslan, Y.~He, Efficient string matching
+  with wildcards and length constraints, Knowledge \& Information Systems
+  10~(4) (2006) 399--419.
+
+\bibitem{Chiu2003Probabilistic}
+Chiu, Bill, Keogh, Eamonn, Lonardi, Stefano, Probabilistic discovery of time
+  series motifs, in: Proc. Acm Sigkdd Int.conf.on Knowledge Discovery \& Data
+  Mining, 2003.
+
+\bibitem{Deng2014Decision}
+X.-F. Deng, Y.~Y. Yao, Decision-theoretic three-way approximations of fuzzy
+  sets, Information Sciences 279 (2014) 702--715.
+
+\bibitem{dietterich1985discovering}
+T.~G. Dietterich, R.~S. Michalski, Discovering patterns in sequences of events,
+  Artificial Intelligence 25~(2) (1985) 187--232.
+
+\bibitem{Ferreira2005Protein}
+P.~G. Ferreira, P.~J. Azevedo, Protein sequence pattern mining with
+  constraints, in: European Conference on Principles of Data Mining and
+  Knowledge Discovery, 2005.
+
+\bibitem{gao2017actionable}
+C.~Gao, Y.~Y. Yao, Actionable strategies in three-way decisions,
+  Knowledge-Based Systems (2017) 1--15.
+
+\bibitem{Vladimir2015Methods}
+V.~Gligorijevi\'c, N.~Pr\v{z}ulj, Methods for biological data integration:
+  perspectives and challenges, Journal of the Royal Society Interface 12~(112).
+
+\bibitem{Greco2007Bayesian}
+S.~Greco, R.~Slowi\'nski, Y.~Y. Yao, Bayesian decision theory for
+  dominance-based rough set approach 4481 (2007) 134--141.
+
+\bibitem{guo2013Pattern}
+D.~Guo, X.-G. Hu, F.~Xie, X.-D. Wu, Pattern matching with wildcards and
+  gap-length constraints based on a centrality-degree graph, Applied
+  intelligence 39~(1) (2013) 57--74.
+
+\bibitem{Hu2014Three}
+B.-Q. Hu, Three-way decisions space and three-way decisions, Information
+  Sciences 281~(281) (2014) 21--52.
+
+\bibitem{HuangB2014Intuitionistic}
+B.~Huang, C.-X. Guo, Y.-X. Zhuang, H.-X. Li, X.-Z. Zhou, Intuitionistic fuzzy
+  miltigranulation rough sets, Information Sciences 277 (2014) 299--320.
+
+\bibitem{huang2012mining}
+C.-K. Huang, Mining the change of customer behavior in fuzzy time-interval
+  sequential patterns, Applied Soft Computing 12~(3) (2012) 1068--1086.
+
+\bibitem{Khotanzad1990Invariant}
+A.~Khotanzad, Y.~H. Hong, Invariant image recognition by zernike moments, IEEE
+  Transactions on Pattern Analysis \& Machine Intelligence 12~(5) (1990)
+  489--497.
+
+\bibitem{Kim2015Spatiotemporal}
+H.~Kim, Y.~Kim, J.~Y. Sim, C.~S. Kim, Spatiotemporal saliency detection for
+  video sequences based on random walk with restart, IEEE Transactions on Image
+  Processing 24~(8) (2015) 2552--2564.
+
+\bibitem{Li2016A}
+D.~Li, W.~Yan, W.-Y. Li, Z.-Y. Ren, A two-tier wind power time series model
+  considering day-to-day weather transition and intraday wind power
+  fluctuations, IEEE Transactions on Power Systems 31~(6) (2016) 4330--4339.
+
+\bibitem{Li2016Sequential}
+H.-X. Li, L.-B. Zhang, B.~Huang, X.-Z. Zhou, Sequential three-way decision and
+  granulation for cost-sensitive face recognition, Knowledge-Based Systems
+  91~(C) (2016) 241--251.
+
+\bibitem{Li2013Cost}
+H.-X. Li, X.-Z. Zhou, B.~Huang, D.~Liu, Cost-sensitive three-way decision: A
+  sequential strategy, in: International Conference on Rough Sets and Knowledge
+  Technology, 2013.
+
+\bibitem{li2017three}
+J.-H. Li, C.-C. Huang, J.-J. Qi, Y.-H. Qian, W.-Q. Liu, Three-way cognitive
+  concept learning via multi-granularity, Information Sciences 378 (2017)
+  244--263.
+
+\bibitem{Li2017Generalized}
+X.-N. Li, H.-J. Yi, Y.-H. She, B.-Z. Sun, Generalized three-way decision models
+  based on subset evaluation, International Journal of Approximate Reasoning
+  83~(C) (2017) 142--159.
+
+\bibitem{Lin2002finding}
+J.~Lin, E.~Keogh, S.~Lonardi, P.~Patel, Finding motifs in time series, in: 2nd
+  Workshop on Temporal Data Mining, 2002.
+
+\bibitem{liu2016novel}
+D.~Liu, D.~Liang, C.-C. Wang, A novel three-way decision model based on
+  incomplete information system, Knowledge-Based Systems 91 (2016) 32--45.
+
+\bibitem{Lo1995Artificial}
+S.~C.~B. Lo, H.~P. Chan, J.~S. Lin, H.~Li, M.~T. Freedman, S.~K. Mun,
+  Artificial convolution neural network for medical image pattern recognition,
+  Neural Networks 8~(7--8) (1995) 1201--1214.
+
+\bibitem{Lopes2015Looking}
+I.~Lopes, H.~G. Silva, Looking for granulation and periodicity imprints in the
+  sunspot time series, Astrophysical Journal 804~(2).
+
+\bibitem{miao2007granular}
+D.-Q. Miao, G.-Y. Wang, Q.~Liu, T.-Y. Lin, Y.~Y. Yao, Granular computing: past,
+  present and future prospects, Science Press, Beijing, 2007.
+
+\bibitem{Mihalcea2004TextRank}
+R.~Mihalcea, P.~Tarau, Textrank: Bringing order into texts, Unt Scholarly Works
+  (2004) 404--411.
+
+\bibitem{Min2017Tri}
+F.~Min, F.-L. Liu, L.-Y. Wen, Z.-H. Zhang, Tri-partition cost-sensitive active
+  learning through knn, Soft Computing~(10) (2017) 1--16.
+
+\bibitem{min2012apriori}
+F.~Min, Y.-X. Wu, X.-D. Wu, The apriori property of sequence pattern mining
+  with wildcard gaps, International Journal of Functional Informatics and
+  Personalised Medicine 4~(1) (2012) 15--31.
+
+\bibitem{mooney2013sequential}
+C.~H. Mooney, J.~F. Roddick, Sequential pattern mining--approaches and
+  algorithms, ACM Computing Surveys (CSUR) 45~(2) (2013) 1--39.
+
+\bibitem{Mueen2009Exact}
+A.~Mueen, E.~J. Keogh, Q.~Zhu, S.~Cash, M.~B. Westover, Exact discovery of time
+  series motifs, in: SDM, 2009.
+
+\bibitem{needleman1970general}
+S.~B. Needleman, C.~D. Wunsch, A general method applicable to the search for
+  similarities in the amino acid sequence of two proteins, Journal of molecular
+  biology 48~(3) (1970) 443--453.
+
+\bibitem{ng2003mining}
+A.~Ng, A.~W.-C. Fu, Mining frequent episodes for relating financial events and
+  stock trends, in: Advances in Knowledge Discovery and Data Mining, Springer,
+  2003, pp. 27--39.
+
+\bibitem{olominu2014application}
+O.~Olominu, A.~A. Sulaimon, et~al., Application of time series analysis to
+  predict reservoir production performance, in: {SPE} Nigeria Annual
+  International Conference and Exhibition, Society of Petroleum Engineers,
+  2014.
+
+\bibitem{Pawlak1982Rough}
+Z.~Pawlak, Rough sets, International Journal of Computer \& Information
+  Sciences 11~(5) (1982) 341--356.
+
+\bibitem{Pletscherfrankild2015DISEASES}
+S.~Pletscherfrankild, A.~Pallej\'a, K.~Tsafou, J.~X. Binder, L.~J. Jensen,
+  Diseases: Text mining and data integration of disease-gene associations,
+  Methods 74 (2015) 83--89.
+
+\bibitem{Sang2017Decision}
+B.-B. Sang, Y.-T. Guo, D.-R. Shi, W.-H. Xu, Decision-theoretic rough set model
+  of multi-source decision systems, International Journal of Machine Learning
+  \& Cybernetics~(1) (2017) 1--14.
+
+\bibitem{She2003Frequent}
+R.~She, F.~Chen, K.~Wang, M.~Ester, J.~L. Gardy, F.~S.~L. Brinkman,
+  Frequent-subsequence-based prediction of outer membrane proteins, in: ACM
+  SIGKDD, 2003.
+
+\bibitem{she2017multiple}
+Y.-H. She, X.-L. He, H.-X. Shi, Y.-H. Qian, A multiple-valued logic approach
+  for multigranulation rough set model, International Journal of Approximate
+  Reasoning 82 (2017) 270--284.
+
+\bibitem{Wenbin2015The}
+W.-B. Shi, P.-J. Shang, The multiscale analysis between stock market time
+  series 26.
+
+\bibitem{Alexander2001Robust}
+A.~Suppes, F.~Suhling, M.~H\"otter, Robust obstacle detection from stereoscopic
+  image sequences using kalman filtering, Pattern Recognition 2191 (2001)
+  385--391.
+
+\bibitem{tanmin2016weak}
+C.-D. Tan, F.~Min, M.~Wang, H.-R. Zhang, Z.-H. Zhang, Discovering patterns with
+  weak-wildcard gaps, IEEE Access 4 (2016) 4922--4932.
+
+\bibitem{Tang2009Digital}
+J.-S. Tang, R.~Rangayyan, J.-H. Yao, Y.-Y. Yang, Digital image processing and
+  pattern recognition techniques for the detection of cancer, Pattern
+  Recognition 42~(6) (2009) 1015--1016.
+
+\bibitem{Tausczik2010The}
+Y.~R. Tausczik, J.~W. Pennebaker, The psychological meaning of words: Liwc and
+  computerized text analysis methods, Journal of Language and Social Psychology
+  29~(1) (2010) 24--54.
+
+\bibitem{Michael2000Understanding}
+M.~A.~P. Taylor, Understanding traffic systems: Data analysis and presentation,
+  2nd edition (hardback) - routledge, Transportation Research Part A-Policy and
+  Practice 32~(8) (2000) 644--645.
+
+\bibitem{Trottini2015On}
+M.~Trottini, M.~Isabel, V.~Aguiar, S.~B. Palaz\'on, On the use of running
+  trends as summary statistics for univariate time series and time series
+  association, Journal of Climate 28~(19) (2015) 7489--7502.
+
+\bibitem{WangMinZhangWu2017Active}
+M.~Wang, F.~Min, Z.-H. Zhang, Y.-X. Wu, Active learning through density
+  clustering, Expert Systems with Applications 85 (2017) 305--317.
+
+\bibitem{Michelle2015Statistics}
+M.~M. Wiest, K.~J. Lee, J.~B. Carlin, Statistics for clinicians: An
+  introduction to logistic regression, Journal of Paediatrics and Child Health
+  51~(7) (2015) 670--673.
+
+\bibitem{Wu2014Pattern}
+X.-D. Wu, J.-P. Qiang, F.~Xie, Pattern matching with flexible wildcards,
+  Journal of Computer Science and Technology 29~(5) (2014) 740--750.
+
+\bibitem{Wu2015Strict}
+Y.-X. Wu, S.~Fu, H.~Jiang, X.-D. Wu, Strict approximate pattern matching with
+  general gaps, Applied Intelligence 42~(3) (2015) 566--580.
+
+\bibitem{Xu2016Generalized}
+W.-H. Xu, Y.-T. Guo, Generalized multigranulation double-quantitative
+  decision-theoretic rough set, Knowledge-Based Systems 105 (2016) 190--205.
+
+\bibitem{yang2002mining}
+J.~Yang, W.~Wang, P.~S. Yu, J.-W. Han, Mining long sequential patterns in a
+  noisy environment, in: 2002 {ACM} SIGMOD, 2002.
+
+\bibitem{yao2013granular}
+J.-T. Yao, A.~V. Vasilakos, W.~Pedrycz, Granular computing: perspectives and
+  challenges, IEEE Transactions on Cybernetics 43~(6) (2013) 1977--1989.
+
+\bibitem{Yao2009Three}
+Y.~Y. Yao, Three-way decision: An interpretation of rules in rough set theory,
+  in: International Conference on Rough Sets and Knowledge Technology, 2009.
+
+\bibitem{Yao2012AnOutline}
+Y.~Y. Yao, An outline of a theory of three-way decisions, in: International
+  Conference on Rough Sets and Current Trends in Computing, 2012.
+
+\bibitem{Yao2016Three}
+Y.~Y. Yao, Three-way decisions and cognitive computing, Cognitive Computation
+  8~(4) (2016) 543--554.
+
+\bibitem{Yao1992ADecision}
+Y.~Y. Yao, S.~K. Wong, A decision theoretic framework for approximating
+  concepts, International Journal of Man-Machine Studies 37~(6) (1992)
+  793--809.
+
+\bibitem{Yu2012Three}
+H.~Yu, Y.~Wang, Three-way decisions method for overlapping clustering, in:
+  International Conference on Rough Sets and Current Trends in Computing, 2012.
+
+\bibitem{Zaki2001SPADE}
+M.~J. Zaki, Spade: An efficient algorithm for mining frequent sequences,
+  Machine Learning 42~(1--2) (2001) 31--60.
+
+\bibitem{Zhang2016Three}
+H.-R. Zhang, F.~Min, Three-way recommender systems based on random forests,
+  Knowledge-Based Systems 91~(C) (2016) 275--286.
+
+\bibitem{zhang2017regression}
+H.-R. Zhang, F.~Min, B.~Shi, Regression-based three-way recommendation,
+  Information Sciences 378 (2017) 444--461.
+
+\bibitem{Bing2014Cost}
+B.~Zhou, Y.~Y. Yao, J.-G. Luo, Cost-sensitive three-way email spam filtering,
+  Journal of Intelligent Information Systems 42~(1) (2014) 19--45.
+
+\bibitem{Zhu2003Medical}
+X.-Q. Zhu, W.~G. Aref, J.-P. Fan, A.~C. Catlin, Medical video mining for
+  efficient database indexing, management and access, in: International
+  Conference on Data Engineering, Proceedings, 2003.
+
+\bibitem{Ziarko1993Variable}
+W.~Ziarko, Variable precision rough set model, Journal of Computer \& System
+  Sciences 46~(1) (1993) 39--59.
+
+\end{thebibliography}

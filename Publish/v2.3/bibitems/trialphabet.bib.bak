@@ -1,0 +1,1198 @@
+@inproceedings{manilla1995discovering,
+  title		    =	{Discovering frequent episodes in sequences},
+  author		=	{Manilla, H and Toivonen, Harmu and Verkamo, A},
+  booktitle	    =	{Proceedings of the First International Conference on Knowledge Discovery and Data Mining},
+  pages		    =	{210--215},
+  year		    =	{1995}
+}
+
+@article{dietterich1985discovering,
+  title		    =	{Discovering patterns in sequences of events},
+  author		=	{Dietterich, Thomas G and Michalski, Ryszard S},
+  journal		=	{Artificial Intelligence},
+  volume		=	{25},
+  number		=	{2},
+  pages		    =	{187--232},
+  year		    =	{1985},
+  publisher	    =	{Elsevier}
+}
+
+@inproceedings{Agrawal2000Fast,
+  title		    =	{Fast algorithms for mining association rules},
+  author		=	{Agrawal, R},
+  booktitle	    =	{Proceedings of the 20th International Conference on Very Large Data Bases},
+  pages		    =	{487--489},
+  year		    =	{2000}
+}
+
+@inproceedings{Ji2005Mining,
+  title		    =	{Mining minimal distinguishing subsequence patterns with gap constraints},
+  author		=	{Ji, Xiao-Nan and Bailey, J. and Dong, Guo-Zhu},
+  booktitle	    =	{ICDM},
+  pages		    =	{194--201},
+  year		    =	{2005}
+}
+
+@inproceedings{Li2008Efficiently,
+  title		    =	{Efficiently mining closed subsequences with gap constraints},
+  author		=	{Li, Chun and Wang, Jian-Yong},
+  booktitle		=	{SDM},
+  pages		    =	{313--322},
+  year		    =	{2008}
+}
+
+@inproceedings{olominu2014application,
+  title		    =	{Application of time series analysis to predict reservoir production performance},
+  author		=	{Olominu, Oluwafemi and Sulaimon, Aliyu A and others},
+  booktitle	    =	{{SPE} Nigeria Annual International Conference and Exhibition},
+  year		    =	{2014},
+  organization	=	{Society of Petroleum Engineers}
+}
+
+@article{georgi1990application,
+  title		    =	{Application of time-series analysis to wireline logs},
+  author		=	{Georgi, Daniel T and Kerford, Sandra J},
+  journal		=	{The Log Analyst},
+  volume		=	{31},
+  number		=	{3},
+  year		    =	{1990}
+}
+
+@inproceedings{gupta2014production,
+  title		    =	{Production forecasting in unconventional resources using data mining and time series analysis},
+  author		=	{Gupta, Siddhartha and Fuehrer, Franz and Jeyachandra, Benin Chelinsky and others},
+  booktitle	    =	{{SPE/CSUR} Unconventional Resources Conference--Canada},
+  year		    =	{2014}
+}
+
+@inproceedings{rebeschini2013building,
+  title		    =	{Building neural-network-based models using nodal and time-series analysis for short-term production forecasting},
+  author		=	{Rebeschini, J and Querales, M and Carvajal, GA and Villamizar, M and Md Adnan, F and Rodriguez, J and Knabe, S and Rivas, F and Saputelli, L and Al-Jasmi, A and others},
+  booktitle	    =	{{SPE} Middle East Intelligent Energy Conference and Exhibition},
+  year		    =	{2013}
+}
+
+@inproceedings{patri2014predicting,
+  title		    =	{Predicting failures from oilfield sensor data using time series shapelets},
+  author		=	{Patri, Om Prasad and Panangadan, Anand V and Chelmis, Charalampos and McKee, Randall G and Prasanna, Viktor and others},
+  booktitle	    =	{{SPE} Annual Technical Conference and Exhibition},
+  year		    =	{2014}
+}
+
+@inproceedings{Yang2000neural,
+  title		    =	{A neural network approach to predict existing and in-fill oil well performance},
+  author		=	{Yang, Lin-Yu and He, Zhong and Yen, J and Wu, Ching},
+  booktitle	    =	{IEEE - INNS - ENNS International Joint Conference on Neural Networks},
+  pages		    =	{4408},
+  year		    =	{2000}
+}
+
+@article{Li2013Application,
+  title		    =	{Application of the neural decision tree approach for prediction of petroleum production},
+  author		=	{Li, X. and Chan, C. W. and Nguyen, H. H.},
+  journal		=	{Journal of Petroleum Science \& Engineering},
+  volume		=	{104},
+  number		=	{2},
+  pages		    =	{11--16},
+  year		    =	{2013}
+}
+
+@article{Caithamer2008Regression,
+  title		    =	{Regression and time series analysis of the world oil peak of production: another look},
+  author		=	{Caithamer, Peter},
+  journal		=	{Mathematical Geosciences},
+  volume		=	{40},
+  number		=	{6},
+  pages		    =	{653--670},
+  year		    =	{2008}
+}
+
+@book{Deshpande2002Evaluation,
+  title		    =	{Evaluation of techniques for classifying biological sequences},
+  author		=	{Deshpande, Mukund and Karypis, George},
+  publisher	    =	{Springer Berlin Heidelberg},
+  pages		    =	{417--431},
+  year		    =	{2002}
+}
+
+@inproceedings{She2003Frequent,
+  title		    =	{Frequent-subsequence-based prediction of outer membrane proteins},
+  author		=	{She, R. and Chen, F. and Wang, K. and Ester, M.},
+  booktitle	    =	{ACM SIGKDD},
+  pages		    =	{436--445},
+  year		    =	{2003}
+}
+
+@inproceedings{Aggarwal2007Xproj,
+  title		    =	{Xproj: a framework for projected structural clustering of xml documents},
+  author		=	{Aggarwal, Charu C. and Na, Ta and Wang, Jianyong and Feng, Jianhua and Zaki, Mohammed},
+  booktitle	    =	{ACM SIGKDD},
+  pages		    =	{46--55},
+  year		    =	{2007}
+}
+
+@article{Zhang2007Mining,
+  title		    =	{Mining periodic patterns with gap requirement from sequences},		
+  author		=	{Zhang, Ming-Hua and Kao, Ben and Cheung, David W. and Yip, Kevin Y.},
+  journal	    =	{ACM Transactions on Knowledge Discovery from Data},
+  pages		    =	{623--633},
+  year		    =	{2007}
+}
+
+@inproceedings{Agrawal1995Mining,
+  title		    =	{Mining sequential patterns},
+  author		=	{Agrawal, Rakesh and Srikant, Ramakrishnan},
+  booktitle	    =	{ICDE},
+  pages		    =	{3--14},
+  year		    =	{1995}
+}
+
+@article{mooney2013sequential,
+  title		    =	{Sequential pattern mining--approaches and algorithms},
+  author		=	{Mooney, Carl H and Roddick, John F},
+  journal		=	{ACM Computing Surveys (CSUR)},
+  volume		=	{45},
+  number		=	{2},
+  pages		    =	{19},
+  year		    =	{2013}
+}
+
+@article{li2011movemine,
+  title		    =	{Movemine: mining moving object data for discovery of animal movement patterns},		
+  author		=	{Li, Zhen-Hui and Han, Jia-Wei and Ji, Ming and Tang, Lu-An and Yu, Yin-Tao and Ding, Bolin and Lee, Jae-Gil and Kays, Roland},
+  journal		=	{{ACM} Transactions on Intelligent Systems and Technology},
+  volume		=	{2},
+  number		=	{4},
+  pages		    =	{37},
+  year		    =	{2011}
+}
+
+@article{wu2009data,
+  title		    =	{Data mining-based intrusion detectors},
+  author		=	{Wu, Su-Yun and Yen, Ester},
+  journal		=	{Expert Systems with Applications},
+  volume		=	{36},
+  number		=	{3},
+  pages		    =	{5605--5612},
+  year		    =	{2009}
+}
+
+@article{huang2012mining,
+  title		    =	{Mining the change of customer behavior in fuzzy time-interval sequential patterns},
+  author		=	{Huang, Cheng-Kui},
+  journal		=	{Applied Soft Computing},
+  volume		=	{12},
+  number		=	{3},
+  pages		    =	{1068--1086},
+  year		    =	{2012}
+}
+
+@article{liao2014dfsp,
+  title={DFSP: a Depth-First SPelling algorithm for sequential pattern mining of biological sequences},
+  author={Liao, Chiang-Chi and Chen, Ming-Syan},
+  journal={Knowledge and Information Systems},
+  volume={38},
+  number={3},
+  pages={623--639},
+  year={2014}
+}
+
+@article{hu2009mining,
+  title={Mining sequential patterns in the B2B environment},
+  author={Hu, Ya-Han and Chen, Yen-Liang and Tang, Kwei},
+  journal={Journal of Information Science},
+  volume={35},
+  number={6},
+  pages={677--694},
+  year={2009},
+  publisher={Sage Publications Sage UK: London, England}
+}
+
+@article{shie2013mining,
+  title		    =	{Mining interesting user behavior patterns in mobile commerce environments},
+  author		=	{Shie, Bai-En and Philip, S Yu and Tseng, Vincent S},
+  journal		=	{Applied intelligence},
+  volume		=	{38},
+  number		=	{3},
+  pages		    =	{418--435},
+  year		    =	{2013}
+}
+
+@inproceedings{yin2012uspan,
+  title		    =	{USpan: an efficient algorithm for mining high utility sequential patterns},
+  author		=	{Yin, Jun-Fu and Zheng, Zhi-Gang and Cao, Long-Bing},
+  booktitle	    =	{{ACM} SIGKDD},
+  pages		    =	{660--668},
+  year		    =	{2012}
+}
+
+@article{Aurea2012Sensor,
+  title		    =	{Sensor-generated time series events: a definition language},
+  author		=	{Anguera, Aurea and Lara, Juan A and Lizcano, David and Mart{\'i}nez, Maria Aurora and Pazos, Juan},
+  journal		=	{Sensors},
+  volume		=	{12},
+  number		=	{9},
+  pages		    =	{11811--11852},
+  year		    =	{2012}
+}
+
+@article{Li2010Application,
+  title		    =	{Application of an enhanced decision tree learning approach for prediction of petroleum production},
+  author		=	{Li, Xiong-Min and Chan, Christine W},
+  journal		=	{Engineering Applications of Artificial Intelligence},
+  volume		=	{23},		
+  number		=	{1},
+  pages		    =	{102--109},
+  year		    =	{2010}
+}
+
+@article{Nguyen2005Applications,
+  title		    =	{Applications of data analysis techniques for oil production prediction},
+  author		=	{Nguyen, Hanh H. and Chan, Christine W},
+  journal		=	{Engineering Applications of Artificial Intelligence},
+  volume		=	{18},
+  number		=	{5},
+  pages		    =	{549--558},
+  year		    =	{2005}
+}
+
+@article{Wu2014Mining,
+  title		    =	{Mining sequential patterns with periodic wildcard gaps},
+  author		=	{You-Xi Wu and Ling-Ling Wang and Jia-Dong Ren and Wei Ding and Xin-Dong Wu},
+  journal		=	{Applied Intelligence},
+  volume		=	{41},
+  number		=	{1},
+  pages		    =	{99--116},
+  year		    =	{2014}
+}
+
+@inproceedings{cole2004dictionary,
+  title		    =	{Dictionary matching and indexing with errors and don't cares},
+  author		=	{Cole, Richard and Gottlieb, Lee-Ad and Lewenstein, Moshe},
+  booktitle	    =	{Proceedings of the thirty-sixth annual {ACM} symposium on theory of computing},
+  pages		    =	{91--100},
+  year		    =	{2004}
+}
+
+@book{gusfield1997algorithms,
+  title		    =	{Algorithms on strings, trees and sequences: computer science and computational biology},
+  author		=	{Gusfield, Dan},
+  year		    =	{1997},
+  publisher	    =	{Cambridge university press}
+}
+
+@techreport{fischer1974string,
+  title		    =	{String-matching and other products},
+  author		=	{Fischer, Michael J and Paterson, Michael S},
+  year		    =	{1974},
+  institution	=	{{DTIC} Document}
+}
+
+@article{Chen2006Efficient,
+  title		    =	{Efficient string matching with wildcards and length constraints},
+  author		=	{Chen, Gong and Wu, Xin-Dong and Zhu, Xing-Quan and Arslan, Abdullah N. and He, Yu},
+  journal		=	{Knowledge \& Information Systems},
+  volume		=	{10},
+  number		=	{4},
+  pages		    =	{399--419},
+  year		    =	{2006}
+}
+
+@inproceedings{Tang2008Forecast,
+  title		    =	{Forecast of oil production in daqing oilfield based on system dynamics},
+  author		=	{Tang, Xu and Zhang, Bao-Sheng and Feng, Lian-Yong and Yuan, Lei},
+  booktitle	    =	{4th International Conference on Wireless Communications, Networking and Mobile Computing},
+  pages		    =	{1--6},
+  year		    =	{2008}
+}
+
+@article{Nam2012A,
+  title		    =	{A study on forecast of oyster production using time series models},
+  author		=	{Nam, Jong Oh and Noh, Seung Guk},
+  journal		=	{Ocean \& Polar Research},
+  volume		=	{34},
+  number		=	{2},
+  pages		    =	{185--195},
+  year		    =	{2012}
+}
+
+@incollection{Yen2012Mining,
+  title      =      {Mining time-gap sequential patterns},
+  author     =      {Yen, Show-Jane and Lee, Yue-Shi},
+  booktitle  =      {Advanced Research in Applied Artificial Intelligence},
+  pages      =      {637--646},
+  year       =      {2012},
+  publisher  =      {Springer}
+}
+
+@article{zhong2012effective,
+  title		    =	{Effective pattern discovery for text mining},
+  author		=	{Ning Zhong and Yue-Feng Li and Sheng-Tang Wu},
+  journal		=	{IEEE Transactions on Knowledge and Data Engineering},
+  volume		=	{24},
+  number		=	{1},
+  pages		    =	{30--44},
+  year		    =	{2012}
+}
+
+@inproceedings{zhu2007discovering,
+  title		    =	{Discovering relational patterns across multiple databases},
+  author		=	{Zhu, Xing-Quan and Wu, Xin-Dong},
+  booktitle	    =	{ICDE},
+  pages		    =	{726--735},
+  year		    =	{2007}
+}
+
+@article{min2012apriori,
+  title		    =	{The Apriori property of sequence pattern mining with wildcard gaps},
+  author		=	{Min, Fan and Wu, You-Xi and Wu, Xin-Dong},
+  journal		=	{International Journal of Functional Informatics and Personalised Medicine},
+  volume		=	{4},
+  number		=	{1},
+  pages		    =	{15--31},		
+  year		    =	{2012}
+}
+
+@article{guo2013pattern,
+  title		    =	{Pattern matching with wildcards and gap-length constraints based on a centrality-degree graph},
+  author		=	{Guo, Dan and Hu, Xue-Gang and Xie, Fei and Wu, Xin-Dong},	
+  journal		=	{Applied intelligence},
+  volume		=	{39},
+  number		=	{1},
+  pages		    =	{57--74},
+  year		    =	{2013},
+  publisher	    =	{Springer}
+}
+
+@inproceedings{Pater2015Adjustment,
+  title		    =	{Adjustment of time-series using the modified exponential for turnover forecast},
+  author		=	{Pater, Liana and Cociu, Nicolae},
+  booktitle	    =	{{AIP} Conference Proceedings},
+  year		    =	{2015}
+}
+
+@inproceedings{Min2009Hierarchical,
+  title		    =	{A hierarchical model for test-cost-sensitive decision systems},
+  author		=	{Min, Fan and Liu, Qi-He},
+  booktitle	    =	{Information Sciences 179},
+  pages		    =	{2442--2452},
+  year		    =	{2009}
+}
+
+@article{yao2013granular,
+  title		    =	{Granular computing: perspectives and challenges},
+  author		=	{Yao, Jing-Tao and Vasilakos, Athanasios V and Pedrycz, Witold},
+  journal		=	{IEEE Transactions on Cybernetics},
+  volume		=	{43},
+  number		=	{6},
+  pages		    =	{1977--1989},
+  year		    =	{2013},
+  publisher 	=	{IEEE}
+}
+
+@book{miao2007granular,
+  title		    =	{Granular computing: past, present and future prospects},
+  author		=	{Miao, Duo-Qian and Wang, Guo-Ying and Liu, Qing and Lin,T-Y and Yao, Yi Yu},
+  year		    =	{2007},
+  publisher	    =	{Science Press, Beijing}
+}
+
+@inproceedings{yao2005information,
+  title		    =	{Information granulation and granular relationships},
+  author		=	{Yao, Jing-Tao},
+  booktitle	    =	{IEEE International Conference on Granular Computing},
+  volume		=	{1},
+  pages		    =	{326--329},
+  year		    =	{2005},
+  organization	=	{IEEE}
+}
+
+@book{pedrycz2008handbook,
+  title		    =	{Handbook of granular computing},
+  author		=	{Pedrycz, Witold and Skowron, Andrzej and Kreinovich, Vladik},
+  year		    =	{2008},
+  publisher	    =	{John Wiley \& Sons}
+}
+
+@article{liu2016novel,
+  title		    =	{A novel three-way decision model based on incomplete information system},
+  author		=	{Liu, Dun and Liang, Decui and Wang, Chang-Chun},
+  journal		=	{Knowledge-Based Systems},
+  volume		=	{91},
+  pages		    =	{32--45},
+  year		    =	{2016},
+  publisher	    =	{Elsevier}
+}
+
+@inproceedings{yao2000granular,
+  title		    =	{Granular computing: basic issues and possible solutions},
+  author		=   {Yao, Yi Yu},
+  booktitle	    =	{Proceedings of the 5th Joint Conference on Information Sciences},
+  volume		=	{1},
+  pages		    =	{186--189},
+  year		    =	{2000}
+}
+
+@article{agrawal1993mining,
+  title		    = 	{Mining association rules between sets of items in large databases},
+  author  	    =   {Agrawal, Rakesh and Imieli{\'n}ski, Tomasz and Swami, Arun},
+  journal	    =	{{ACM} SIGMOD Record},
+  volume	    =	{22},
+  number	    =	{2},
+  pages		    =	{207--216},
+  year		    =	{1993},
+  publisher	    =	{ACM}
+}
+
+@article{wen2015granular,
+  title		    =	{A granular computing approach to symbolic value partitioning},
+  author	    =	{Wen, Liu-Ying and Min, Fan},
+  journal	    =	{Fundamenta Informaticae},
+  volume	    =	{142},
+  number	    =	{1-4},
+  pages	        =   {337--371},
+  year          =   {2015},
+  publisher     =   {IOS Press}
+}
+
+@ARTICLE{GuWu2013Acquisition,
+    title       =   {On knowledge acquisition in multi-scale decision systems},
+    author      =   {Gu, Sheng-Ming and  Wu, Wei-Zhi},
+    journal     =   {International Journal of Machine Learning and Cybernetics},
+    volume      =   {4},
+    number      =   {5},
+    year        =   {2013},
+    pages       =   {477--486}
+}
+
+@book{guyon2008feature,
+  title         =   {Feature extraction: foundations and applications},
+  author        =   {Guyon, Isabelle and Gunn, Steve and Nikravesh, Masoud and Zadeh, Lofti A},
+  volume        =   {207},
+  year          =   {2008},
+  publisher     =   {Springer}
+}
+
+@article{singh2012finding,
+  title       =     {Finding the chances and prediction of cancer through Apriori algorithm with transaction reduction},
+  author      =     {Singh, Shashank and Yadav, Manoj and Gupta, Hitesh},
+  journal     =     {Int J Adv Comput Res},
+  volume      =     {2},
+  number      =     {2},
+  pages       =     {23--28},
+  year        =     {2012}
+}
+
+@inproceedings{lakshmipriya2012efficient,
+  title       =     {An efficient approach for generating frequent patterns without candidate generation},
+  author      =     {LakshmiPriya, G and Hariharan, Shanmugasundaram},
+  booktitle   =     {Proceedings of the International Conference on Advances in Computing, Communications and Informatics},
+  pages       =     {1061--1067},
+  year        =     {2012},
+  organization=     {ACM}
+}
+
+@inproceedings{priya2011comparative,
+  title       =      {A comparative study on existing methodologies to predict dominating patterns amongst biological sequences},
+  author      =      {Priya, G Lakshmi and Hariharan, Shanmugasundaram},
+  booktitle   =      {Advanced Computing},
+  pages       =      {210--215},
+  year        =      {2011},
+  organization=      {IEEE}
+}
+
+@article{song2008tourism,
+  title      =       {Tourism demand modelling and forecasting—a review of recent research},
+  author     =       {Song, Hai-Yan and Li, Gang},
+  journal    =       {Tourism Management},
+  volume     =       {29},
+  number     =       {2},
+  pages      =       {203--220},
+  year       =       {2008},
+  publisher  =       {Elsevier}
+}
+
+@article{zhan2007outlier,
+  title      =       {Outlier detection algorithm based on pattern representation of time series},
+  author     =       {Zhan, Yan-Yan and Chen, Xiao-Yun and Xu, Rong-Cong},
+  journal    =       {Application Research of Computers},
+  volume     =       {24},
+  number     =       {11},
+  pages      =       {96--99},
+  year       =       {2007}
+}
+
+@article{lin2008alignment,
+  title      =       {Alignment and classification of time series gene expression in clinical studies},
+  author     =       {Lin, Tien-Ho and Kaminski, Naftali and Bar-Joseph, Ziv},
+  journal    =       {Bioinformatics},
+  volume     =       {24},
+  number     =       {13},
+  pages      =       {147--155},
+  year       =       {2008},
+  publisher  =       {Oxford Univ Press}
+}
+
+@article{burkom2007automated,
+  title     =        {Automated time series forecasting for biosurveillance},
+  author    =        {Burkom, Howard S and Murphy, Sean Patrick and Shmueli, Galit},
+  journal   =        {Statistics in medicine},
+  volume    =        {26},
+  number    =        {22},
+  pages     =        {4202--4218},
+  year      =        {2007},publisher =        {Wiley On line Library}
+}
+
+@article{ouyang2010similarity,
+  title    =         {Similarity search and pattern discovery in hydrological time series data mining},
+  author   =         {Ouyang, Ru-Lin and Ren, Li-Liang and Cheng, Wei-Ming and Zhou, Chen-Ghu},
+  journal  =         {Hydrological processes},
+  volume   =         {24},
+  number   =         {9},
+  pages    =         {1198--1210},
+  year     =         {2010},
+  publisher=         {Wiley Online Library}
+}
+
+@article{aastrom1969choice,
+  title    =         {On the choice of sampling rates in parametric identification of time series},
+  author   =         {{\AA}str{\"o}m, Karl Johan},
+  journal  =         {Information Sciences},
+  volume   =         {1},
+  number   =         {3},
+  pages    =         {273--278},
+  year     =         {1969},
+  publisher=         {Elsevier}
+}
+
+@book{agrawal1993efficient,
+  title    =         {Efficient similarity search in sequence databases},
+  author   =         {Agrawal, Rakesh and Faloutsos, Christos and Swami, Arun},
+  year     =         {1993},
+  publisher=         {Springer}
+}
+
+@article{bernad1996finding,
+  title    =         {Finding patterns in time series: a dynamic programming approach},
+  author   =         {Bernad, DJ},
+  journal  =         {Advances in knowledge discovery and data mining},
+  year     =         {1996},
+  publisher=         {The MIT Press}
+}
+
+@inproceedings{chan1999efficient,
+  title    =         {Efficient time series matching by wavelets},
+  author   =         {Chan, Kin-Pong and Fu, Ada Wai-Chee},
+  booktitle=         {15th International Conference on Data Engineering},
+  pages    =         {126--133},
+  year     =         {1999},
+  organization=      {IEEE}
+}
+
+@book{faloutsos1994fast,
+  title    =         {Fast subsequence matching in time-series databases},
+  author   =         {Faloutsos, Christos and Ranganathan, Mudumbai and Manolopoulos, Yannis},
+  volume   =         {23},
+  number   =         {2},
+  year     =         {1994},
+  publisher=         {ACM}
+}
+
+@inproceedings{keogh1997fast,
+  title   =          {Fast similarity search in the presence of longitudinal scaling in time series databases},
+  author  =          {Keogh, Eamonn},
+  booktitle=         {9th IEEE International Conference on Tools with Artificial Intelligence},
+  pages   =          {578--584},
+  year    =          {1997},
+  organization=      {IEEE}
+}
+
+@article{abonyi2005modified,
+  title   =          {Modified gath--geva clustering for fuzzy segmentation of multivariate time-series},
+  author  =          {Abonyi, Janos and Feil, Balazs and Nemeth, Sandor and Arva, Peter},
+  journal =          {Fuzzy Sets and Systems},
+  volume  =          {149},
+  number  =          {1},
+  pages   =          {39--56},
+  year    =          {2005},
+  publisher=         {Elsevier}
+}
+
+@article{esling2012time,
+  title   =          {Time-series data mining},
+  author  =          {Philippe Esling and Carlos Agon},
+  journal =          {CSUR},
+  volume  =          {45},
+  number  =          {1},
+  pages   =          {12},
+  year    =          {2012},
+  publisher=         {ACM}
+}
+
+@article{agrawal1993mining,
+  title   =          {Mining association rules between sets of items in large databases},
+  author  =          {Agrawal, Rakesh and Imieli{\'n}ski, Tomasz and Swami, Arun},
+  journal =          {{ACM} SIGMOD Record},
+  volume  =          {22},
+  number  =          {2},
+  pages   =          {207--216},
+  year    =          {1993},
+  publisher=         {ACM}
+}
+
+@inproceedings{Lin2002finding,
+  title  =          {Finding motifs in time series},
+  author =          {Jessica Lin and Eamonn Keogh and Stefano Lonardi and Pranav Patel},
+  booktitle=        {2nd Workshop on Temporal Data Mining},
+  pages  =          {53--68},
+  year   =          {2002}
+}
+
+@article{motro1988vague,
+  title  =          {VAGUE: A user interface to relational databases that permits vague queries},
+  author =          {Motro, Amihai},
+  journal=          {TOIS},
+  volume =          {6},
+  number =          {3},
+  pages  =          {187--214},
+  year   =          {1988},
+  publisher=        {ACM}
+}
+
+@article{shasha1990new,
+  title  =          {New techniques for best-match retrieval},
+  author =          {Shasha, Dennis and Wang, Tsong-Li},
+  journal=          {TOIS},
+  volume =          {8},
+  number =          {2},
+  pages  =          {140--158},
+  year   =          {1990},
+  publisher=        {ACM}
+}
+
+@article{aurenhammer1991voronoi,
+  title  =         {Voronoi diagrams—a survey of a fundamental geometric data structure},
+  author =         {Aurenhammer, Franz},
+  journal=         {CSUR},
+  volume =         {23},
+  number =         {3},
+  pages  =         {345--405},
+  year   =         {1991},
+  publisher=       {ACM}
+}
+
+@article{jagadish1991retrieval,
+  title  =         {A retrieval technique for similar shapes},
+  author =         {Jagadish, Hosagrahar V},
+  journal=         {{ACM SIGMOD} Record},
+  volume =         {20},
+  number =         {2},
+  pages  =         {208--217},
+  year   =         {1991},
+  publisher=       {ACM}
+}
+
+@inproceedings{fu2001pattern,
+  title  =         {Pattern discovery from stock time series using self-organizing maps},
+  author =         {Tak-Chung Fu and Fu-Lai Chung and Vincent Ng and Robert Luk},
+  booktitle=       {{KDD} 2001 Workshop on Temporal Data Mining},
+  pages  =         {26--29},
+  year   =         {2001}
+}
+
+@inproceedings{songqing2009application,
+  title  =         {Application of chaotic theory to oil production rate time series prediction},
+  author =         {Zheng, Song-Qing and Zhang, Hong-Fang and Bao, Jing-Wei},
+  booktitle=       {IEEE International Conference on Intelligent Computing and Intelligent Systems},
+  volume =         {3},
+  pages  =         {690--693},
+  year   =         {2009}
+}
+
+@inproceedings{aggarwal2009frequent,
+  title  =         {Frequent pattern mining with uncertain data},
+  author =         {Aggarwal, Charu C and Li, Yan and Wang, Jian-Yong and Wang, Jing},
+  booktitle=       {Proceedings of the 15th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+  pages  =         {29--38},
+  year   =         {2009}
+}
+
+@article{ivancsy2006frequent,
+  title  =        {Frequent pattern mining in web log data},
+  author =        {Iv{\'a}ncsy, Ren{\'a}ta and Vajk, Istv{\'a}n},
+  journal=        {Acta Polytechnica Hungarica},
+  volume =        {3},
+  number =        {1},
+  pages  =        {77--90},
+  year   =        {2006}
+}
+
+@incollection{ng2003mining,
+  title  =        {Mining frequent episodes for relating financial events and stock trends},
+  author =        {Ng, Anny and Fu, Ada Wai-Chee},
+  booktitle=      {Advances in Knowledge Discovery and Data Mining},
+  pages  =        {27--39},
+  year   =        {2003},
+  publisher=      {Springer}
+}
+
+@article{han2007frequent,
+  title  =        {Frequent pattern mining: current status and future directions},
+  author =        {Han, Jia-Wei and Cheng, Hong and Xin, Dong and Yan, Xi-Feng},
+  journal=        {Data Mining and Knowledge Discovery},
+  volume =        {15},
+  number =        {1},
+  pages  =        {55--86},
+  year   =        {2007},
+  publisher=      {Springer}
+}
+
+@inproceedings{orlando2004new,
+  title  =       {A new algorithm for gap constrained sequence mining},
+  author =       {Orlando, Salvatore and Perego, Raffaele and Silvestri, Claudio},
+  booktitle=     {Proceedings of the 2004 {ACM} symposium on Applied computing},
+  pages  =       {540--547},
+  year   =       {2004}
+}
+
+@inproceedings{lin2003symbolic,
+  title =       {A symbolic representation of time series with implications for streaming algorithms},
+  author=       {Lin, Jessica and Keogh, Eamonn and Lonardi, Stefano and Chiu, Bill},
+  booktitle=    {Proceedings of the 8th ACM SIGMOD Workshop on Research Issues in Data Mining and knowledge discovery},
+  pages =       {2--11},
+  year  =       {2003}
+}
+
+@article{giannella2003mining,
+  title =       {Mining frequent patterns in data streams at multiple time granularities},
+  author=       {Giannella, Chris and Han, Jia-Wei and Pei, Jian and Yan, Xi-Feng and Yu, Philip S},
+  journal=      {Next generation data mining},
+  volume =      {212},
+  pages =       {191--212},
+  year  =       {2003},
+  publisher=    {AAAI/MIT}
+}
+
+@inproceedings{yang2002mining,
+  title  =        {Mining long sequential patterns in a noisy environment},
+  author =        {Yang, Jiong and Wang, Wei and Yu, Philip S and Han, Jia-Wei},
+  booktitle=      {2002 {ACM} SIGMOD},
+  pages  =        {406--417},
+  year   =        {2002},
+  organization=   {ACM}
+}
+
+@inproceedings{leung2009mining,
+  title  =        {Mining of frequent itemsets from streams of uncertain data},
+  author =        {Leung, Carson Kai-Sang and Hao, Bo-Yu},
+  booktitle=      {2009 ICDE},
+  pages  =        {1663--1670},
+  year   =        {2009},
+  organization=   {IEEE}
+}
+
+@article{liang2013associating,
+  title  =        {Associating stock prices with web financial information time series based on support vector regression},
+  author =        {Liang, Xun and Chen, Rong-Chang and He, Yang-Bo and Chen, Ying},
+  journal=        {Neurocomputing},
+  volume =        {115},
+  pages  =        {142--149},
+  year   =        {2013},
+  publisher=      {Elsevier}
+}
+
+@article{nguyen2005Applications,
+  title  =        {Applications of data analysis techniques for oil production prediction},
+  author =        {Nguyen, Hanh H. and Chan, Christine W},
+  journal=        {Engineering Applications of Artificial Intelligence},
+  volume =        {18},
+  number =        {5},
+  pages  =        {549--558},
+  year   =        {2005}
+}
+
+@article{vzylius2015evaluation,
+  title  =        {Evaluation of computational intelligence techniques for daily product sales forecasting},
+  author =        {{\v{Z}}ylius, Gediminas Gediminas and Simutis, Rimvydas and Vaitkus, Vygandas},
+  journal=        {International Journal of Computing},
+  volume =        {14},
+  number =        {3},
+  pages  =        {157--164},
+  year   =        {2015}
+}
+
+@inproceedings{keller2015synthetic,
+  title  =        {Synthetic future daily weather time-series over switzerland in consistency with rcm projections},
+  author =        {Keller, Denise E and Fischer, Andreas M and Liniger, Mark A and Appenzeller, Christof and Knutti, Reto},
+  volume =        {17},
+  pages  =        {10823},
+  year   =        {2015}
+}
+
+@inproceedings{yi2000fast,
+  title  =        {Fast time sequence indexing for arbitrary lp norms},
+  author =        {Yi, Byoung-Kee and Faloutsos, Christos},
+  year   =        {2000},
+  organization=   {VLDB}
+}
+
+@inproceedings{ge2000deformable,
+  title  =        {Deformable markov model templates for time-series pattern matching},
+  author =        {Ge, Xian-Ping and Smyth, Padhraic},
+  booktitle=      {6th {ACM} SIGKDD},
+  pages  =        {81--90},
+  year   =        {2000},
+  organization=   {ACM}
+}
+
+@inproceedings{chan1999efficient,
+  title  =        {Efficient time series matching by wavelets},
+  author =        {Chan, Kin-Pong and Fu, Ada Wai-Chee},
+  booktitle=      {1999 Proceedings on Data Engineering},
+  pages  =        {126--133},
+  year   =        {1999},
+  organization=   {IEEE}
+}
+
+@article{hoffman2012unsupervised,
+  title  =        {Unsupervised pattern discovery in human chromatin structure through genomic segmentation},
+  author =        {Hoffman, Michael M and Buske, Orion J and Wang, Jie and Weng, Zhi-Ping and Bilmes, Jeff A and Noble, William Stafford},
+  journal=        {Nature methods},
+  volume =        {9},
+  number =        {5},
+  pages  =        {473--476},
+  year   =        {2012},
+  publisher=      {Nature Publishing Group}
+}
+
+@article{Tanaka2005Discovery,
+  title  =        {Discovery of time-series motif from multi-dimensional data based on mdl principle},
+  author =        {Tanaka, Yoshiki and Iwamoto, Kazuhisa and Uehara, Kuniaki},
+  journal=        {Machine Learning},
+  volume =        {58},
+  number =        {2-3},
+  pages  =        {269--300},
+  year   =        {2005}
+}
+
+@inproceedings{Mueen2009Exact,
+  title  =        {Exact discovery of time series motifs},
+  author =        {Mueen, Abdullah and Keogh, Eamonn J. and Zhu, Qiang and Cash, Sydney and Westover, M. Brandon},
+  booktitle=      {{SDM} 2009},
+  pages  =        {493--498},
+  year   =        {2009}
+}
+
+@article{Tang2008Discovering,
+  title  =        {Discovering original motifs with different lengths from time series},
+  author =        {Tang, Heng and Liao, Stephen Shaoyi},
+  journal=        {Knowledge-Based Systems},
+  volume =        {21},
+  number =        {7},
+  pages  =        {666--671},
+  year   =        {2008}
+}
+
+@article{gupta2007symbolic,
+  title  =        {Symbolic time series analysis of ultrasonic data for early detection of fatigue damage},
+  author =        {Gupta, Shalabh and Ray, Asok and Keller, Eric},
+  journal=        {Mechanical Systems and Signal Processing},
+  volume =        {21},
+  number =        {2},
+  pages  =        {866--884},
+  year   =        {2007},
+  publisher=      {Elsevier}
+}
+
+@article{khatkhate2006symbolic,
+  title  =       {Symbolic time-series analysis for anomaly detection in mechanical systems},
+  author =       {Khatkhate, Amol and Ray, Asok and Keller, Eric and Gupta, Shalabh and Chin, Shin C},
+  journal=       {{IEEE/ASME} Transactions on Mechatronics},
+  volume =       {11},
+  number =       {4},
+  pages  =       {439--447},
+  year   =       {2006},
+  publisher=     {IEEE}
+}
+
+@article{piccardi2006parameter,
+  title  =       {On parameter estimation of chaotic systems via symbolic time-series analysis},
+  author =       {Piccardi, Carlo},
+  journal=       {An Interdisciplinary Journal of Nonlinear Science},
+  volume =       {16},
+  number =       {4},
+  pages  =       {043115},
+  year   =       {2006},
+  publisher=     {AIP Publishing}
+}
+
+@article{li2013incomplete,
+  title  =       {Incomplete decision contexts: approximate concept construction, rule acquisition and knowledge reduction},
+  author =       {Li, Jin-Hai and Mei, Chang-Lin and Lv, Yue-Jin},
+  journal=       {International Journal of Approximate Reasoning},
+  volume =       {54},
+  number =       {1},
+  pages  =       {149--165},
+  year   =       {2013},
+  publisher=     {Elsevier}
+}
+
+@article{XuLi2014Granular,
+  title  =       {Granular computing approach to two-way learning based on formal concept analysis in fuzzy datasets},
+  author =       {Xu, Wei-Hua and Li, Wen-Tao},
+  journal=       {{IEEE} Transactions on Cybernetics},
+  volume =       {46},
+  number =       {2},
+  pages  =       {1},
+  year   =       {2014}
+}
+
+@article{liu2014rough,
+  title={A rough set-based incremental approach for learning knowledge in dynamic incomplete information systems},
+  author={Liu, Dun and Li, Tian-Rui and Zhang, Jun-Bo},
+  journal={International Journal of Approximate Reasoning},
+  volume={55},
+  number={8},
+  pages={1764--1786},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@inproceedings{liu2013todmis,
+  title={{TODMIS}: Mining communities from trajectories},
+  author={Liu, Si-Yuan and Wang, Shu-Hui and Jayarajah, Kasthuri and Misra, Archan and Krishnan, Ramayya},
+  booktitle={Proceedings of the 22nd ACM international conference on Conference on information \& knowledge management},
+  pages={2109--2118},
+  year={2013},
+  organization={ACM}
+}
+
+@inproceedings{liu2012distributed,
+  title={Distributed incomplete pattern matching via a novel weighted bloom filter},
+  author={Liu, Si-Yuan and Kang, Lei and Chen, Lei and Ni, Lionel},
+  booktitle={IEEE 32nd International Conference on Distributed Computing Systems},
+  pages={122--131},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{liu2014conduct,
+  title={How to Conduct Distributed Incomplete Pattern Matching},
+  author={Liu, Si-Yuan and Kang, Lei and Chen, Lei and Ni, Lionel M},
+  journal={IEEE Transactions on Parallel and Distributed Systems},
+  volume={25},
+  number={4},
+  pages={982--992},
+  year={2014},
+  publisher={IEEE}
+}
+
+@article{tanmin2016weak,
+  title    =    {Discovering patterns with weak-wildcard gaps},
+  author   =    {Chao-Dong Tan and Fan Min and  Min Wang and  Heng-Ru Zhang and Zhi-Heng Zhang},
+  journal  =    {IEEE Access},
+  volume   =    {4},
+  pages    =    {4922--4932},
+  year     =    {2016},
+  publisher=    {IEEE}
+}
+
+@misc{
+    amino-acid,
+    title = "Amino acid",
+    year = "2017",
+    note = {\url{https://en.wikipedia.org/wiki/Amino_acid}}
+}
+
+@article{YueXD2016Tripartition,
+  title    =    {Tri-partition neighborhood covering reduction for robust classification},
+  author   =    {X.-D. Yue and Y.-F. Chen and Duo-Qian Miao},
+  journal  =    {International Journal of Approximate Reasoning},
+  volume   =    {x},
+  pages    =    {x--x},
+  year     =    {2016},
+  publisher=    {Elsevier}
+}
+
+@article{YueXD2016Tripartition,
+  title    =    {Tri-partition neighborhood covering reduction for robust classification},
+  author   =    {X.-D. Yue and Y.-F. Chen and Duo-Qian Miao},
+  journal  =    {International Journal of Approximate Reasoning},
+  volume   =    {x},
+  pages    =    {x--x},
+  year     =    {2016},
+  publisher=    {Elsevier}
+}
+
+@article{Yao2016triarchic,
+  title    =    {A triarchic theory of granular computing},
+  author   =    {Yi Yu Yao},
+  journal  =    {Granular Computing},
+  volume   =    {1},
+  issue    =    {2},
+  pages    =    {145--157},
+  year     =    {2016},
+  publisher=    {Springer}
+}
+
+@inproceedings{ZakiMJ1998PlanMine,
+  title    =    {{PlanMine}: Sequence mining for plan failures},
+  author   =    {Mohammed J. Zaki and Neal Lesh and Mitsunori Ogihara},
+  booktitle=    {KDD},
+  pages    =    {369--373},
+  year     =    {1998},
+  organization={AAAI}
+}
+
+@article{Rigoutsos1998Combinatorial,
+  title    =    {Combinatorial pattern discovery in biological sequences: The {TEIRESIAS} algorithm},
+  author   =    {Isidore Rigoutsos and Aris Floratos},
+  journal  =    {Bioinformatics},
+  volume   =    {14},
+  issue    =    {1},
+  pages    =    {55-67},
+  year     =    {1998},
+  publisher=    {Springer}
+}
+
+@article{needleman1970general,
+  title    = {A general method applicable to the search for similarities in the amino acid sequence of two proteins},
+  author   = {Needleman, Saul B and Wunsch, Christian D},
+  journal  = {Journal of molecular biology},
+  volume   = {48},
+  number   = {3},
+  pages    = {443--453},
+  year     = {1970},
+  publisher={Elsevier}
+}
+
+@inproceedings{Zhao2017Hierarchical,
+  title={Hierarchical feature selection with recursive regularization},
+  author={Zhao, Hong and Zhu, Peng-Fei and Wang, Ping and Hu, Qing-Hua},
+  booktitle={Proceedings of the 26th International Joint Conference on Artificial Intelligence},
+  year={2017}
+}
+
+@article{Khotanzad1990Invariant,
+  title={Invariant Image Recognition by Zernike Moments},
+  author={Khotanzad, A and Hong, Y. H},
+  journal={IEEE Transactions on Pattern Analysis \& Machine Intelligence},
+  volume={12},
+  number={5},
+  pages={489--497},
+  year={1990},
+}
+
+@article{Tausczik2010The,
+  title={The Psychological Meaning of Words: LIWC and Computerized Text Analysis Methods},
+  author={Tausczik, Yla R. and Pennebaker, James W.},
+  journal={Journal of Language and Social Psychology},
+  volume={29},
+  number={1},
+  pages={24-54},
+  year={2010},
+}
+
+@inproceedings{Ferreira2005Protein,
+  title={Protein sequence pattern mining with constraints},
+  author={Ferreira, Pedro Gabriel and Azevedo, Paulo J},
+  booktitle={European Conference on Principles of Data Mining and Knowledge Discovery},
+  pages={96-107},
+  year={2005},
+}
+
+@article{Wu2014Pattern,
+  title={Pattern Matching with Flexible Wildcards},
+  author={Wu, Xin-Dong and Qiang, Ji-Peng and Xie, Fei},
+  journal={Journal of Computer Science and Technology},
+  volume={29},
+  number={5},
+  pages={740--750},
+  year={2014}
+}
+
+@article{Guo2013Pattern,
+  title={Pattern matching with wildcards and gap-length constraints based on a centrality-degree graph},
+  author={Guo, Dan and Hu, Xue-Gang and Xie, Fei and Wu, Xin-Dong},
+  journal={Applied Intelligence},
+  volume={39},
+  number={1},
+  pages={57--74},
+  year={2013}
+}
+
+@article{Wu2015Strict,
+  title={Strict approximate pattern matching with general gaps},
+  author={Wu, You-Xi and Fu, Shuai and Jiang, He and Wu, Xin-Dong},
+  journal={Applied Intelligence},
+  volume={42},
+  number={3},
+  pages={566--580},
+  year={2015}
+}
+
+@article{li2017three,
+  title={Three-way cognitive concept learning via multi-granularity},
+  author={Li, Jin-Hai and Huang, Chen-Chen and Qi, Jian-Jun and Qian, Yu-Hua and Liu, Wen-Qi},
+  journal={Information Sciences},
+  volume={378},
+  pages={244--263},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{liu2016novel,
+  title={A novel three-way decision model based on incomplete information system},
+  author={Liu, Dun and Liang, Decui and Wang, Changchun},
+  journal={Knowledge-Based Systems},
+  volume={91},
+  pages={32--45},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{she2017multiple,
+  title={A multiple-valued logic approach for multigranulation rough set model},
+  author={She, Yan-Hong and He, Xiao-Li and Shi, Hui-Xian and Qian, Yu-Hua},
+  journal={International Journal of Approximate Reasoning},
+  volume={82},
+  pages={270--284},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@ARTICLE{HuangB2014Intuitionistic,
+    author  = {Bing Huang and Chun-Xiang Guo and Yu-Xiang Zhuang and Hua-Xiong Li and Xian-Zhong Zhou},
+    title   = {Intuitionistic fuzzy miltigranulation rough sets},
+    journal = {Information Sciences},
+    year    = {2014},
+    volume  = {277},
+    pages   = {299-320}
+}
+
+@article{zhang2017regression,
+  title={Regression-based three-way recommendation},
+  author={Zhang, Heng-Ru and Min, Fan and Shi, Bing},
+  journal={Information Sciences},
+  volume={378},
+  pages={444--461},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@INPROCEEDINGS{YuWangJiao2014three,
+    title     =  {A Three-Way Decisions Approach to Density-Based Overlapping Clustering},
+    author    =  {Hong Yu and Ying Wang and Peng Jiao},
+    booktitle =  {Transactions on Rough Sets XVIII},
+    year      =  {2014},
+    pages     =  {92--109}
+}
+
+@article{gao2017actionable,
+  title={Actionable Strategies in Three-way Decisions},
+  author={Gao, Cong and Yao, Yi Yu},
+  journal={Knowledge-Based Systems},
+  year={2017},
+  pages = {1--15},
+  publisher={Elsevier}
+}

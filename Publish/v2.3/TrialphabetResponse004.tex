@@ -1,0 +1,275 @@
+\documentclass[preprint,authoryear]{elsarticle}
+
+\usepackage{graphicx}
+\usepackage{epsfig}
+\usepackage{epstopdf}
+\usepackage{natbib}
+\usepackage{url}
+
+% The amssymb package provides various useful mathematical symbols
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{latexsym}
+
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{subfigure}
+\usepackage{colortbl}
+\usepackage{multirow}
+\usepackage[colorlinks,linkcolor=red]{hyperref}
+
+\begin{document}
+\begin{frontmatter}
+
+\title{Revision of ``Frequent pattern discovery with tri-partition alphabets"}
+
+\author{Fan Min}
+\author{Zhi-Heng Zhang}
+\author{Wen-Jie Zhai}
+\author{Rong-Ping Shen}
+
+\address{School of Computer Science, Southwest Petroleum University, Chengdu 610500, China}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Enter your name between curly braces
+
+%\date{\today}  % Enter your date or \today between curly braces
+
+%\date{\today}          % Enter your date or \today between curly braces
+%\maketitle
+\end{frontmatter}
+
+
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Begin a new section
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+\section {Introduction}\label{section: Introduction}
+We are grateful to the reviewer for the careful review and constructive suggestions with regard to our manuscript.
+The comments were valuable and very helpful for revising and improving our paper, as well as helping us to refine the direction of our research.
+We have carefully addressed, as outlined in the following sections, all of the reviewer's suggestions.
+Particularly, the abstract and the introduction parts are rewritten, and the experimentation is significantly enriched.
+
+\section{Response to reviewer \#1}
+
+\emph{The paper introduces a more general and flexible type called tri-pattern by partitioning the alphabet into the strong/medium/weak parts. It indicates an interesting direction of three-way decision. The proposed TPM may be served as a general method for pattern discovery. The connection of TPM and existing methods and its properties are well described.}
+
+\textbf{Response:}
+Thank you for the kind words.
+
+\emph{There are a few minor comments:\\
+1. Parameter setting for $N$, $M$, etc. should be explained in more detail.}
+
+\textbf{Response:}
+We have revised ``Data" subsections to ``Data and parameter settings."
+
+\emph{2. Instead of talking too much about the experimental results, discussion of further works may be elaborated.}
+
+\textbf{Response:}
+Thank you for the good suggestion.
+We have added some discussions of further works.
+
+\emph{3. English in the experimental part needs improvement.}
+
+\textbf{Response:}
+We have polished the English carefully.
+
+\section{Response to reviewer \#2}
+
+\emph{The algorithm the authors propose is powerful.}
+
+\textbf{Response:}
+Thank you for the kind words and so many detailed suggestions.
+
+\emph{To enhance a broad readability of the paper, I strongly recommend the authors to add,
+here and there, some lines of text to help the reader following the sequence of reasoning
+throughout the paper, especially when considering that examples of different domains are given.}
+
+\textbf{Response:} We have added some text especially in the experimental part.
+
+\emph{Moreover, the real focus of the paper is dealt with in detail starting from page 17.
+The abstract should be re-organised and better focussed.
+The very first sentence is quite circular:
+``The concept of patterns is the basis of ..pattern discovery"
+I suggest ``The concept of patterns is the basis of sequence analysis".}
+
+\textbf{Response:}
+Suggestion accepted.
+
+\emph{It follows with ``Inspired by the protein tri-partition ¡­"
+here the reader must receive sufficient information to understand what is the paper about,
+and which is the purpose.
+I suggest you something like this:
+``Inspired by the protein tri-partition and three-way decision,
+we propose here an algorithm \dots for \dots by dividing the alphabet into strong/medium/weak parts \dots."}
+
+\textbf{Response:}
+We have accepted this suggestion and revised the sentence as follows.
+``Inspired by the protein tri-partition and three-way decision, we propose here a frequent pattern discovery algorithm by dividing the alphabet into strong/medium/weak parts."
+
+\emph{Definition 3 (page 4 of the manuscript) contains a formal ERROR: ``the union of $\Lambda$ and $\Omega$" should be replaced by ``$\Lambda$ intersects with $\Omega$".}
+
+\textbf{Response:}
+Error corrected.
+
+\emph{4.2.1. Data: after equation (13), in line with the idea to help the reader better following the overall reasoning, I suggest the authors to add, for example
+``To model the fluctuation of oil production, we propose the code table as shown in Table 6".}
+
+\textbf{Response:}
+Suggestion accepted.
+
+\emph{4.3. Faked Chinese text: (page 18) the authors give examples of Chinese characters
+that are part of the $\Lambda$ set.
+Here, for a wider audience of readers, it would be useful to give an English translation
+(whenever possible) of the meanings expressed by the given characters.
+It follows with the explanation of characters of the weak - $\Omega$ - set:
+English characters are commonly (and historically) defined ad Latin characters.
+Thus, please change ``English" with ``Latin".}
+
+\textbf{Response:}
+We have added the translation.
+
+\emph{4.3.3. Results: (page 21) The reason is the same as Figure 5(d). Please rephrase it more clearly by adding here a few words to highlight the reason, since a figure is not a reason, it may only show results, trends.}
+
+\textbf{Response:}
+We have revised the sentence as ``The reason is that most middle elements in $\Lambda$ are infrequent."
+
+\emph{It follows with bullet points summarising your observations. Point 2: ¡­Naturally the accuracy of Type II patterns are 100\%.
+Is it correct? Linguistically, it should be ``is 100\%".
+This apart, I cannot see how type II accuracy can be 100\%.
+I suppose it should be ``Type I".}
+
+\textbf{Response:} By definition, Type II (plain) patterns achieves 100\% accuracy when no noise is introduced.
+However, this cannot be observed from Table 8.
+Hence we removed this point.
+
+\emph{5. Conclusions: The very ending (In the future we will collaborate ¡­) of the conclusion should be rephrased.
+To give but an example: ``A prospective application of our TPM algorithm will involve domain-specific experts for some real applications of tri-pattern discovery".}
+
+\textbf{Response:}
+We have extended the conclusion part to include this issue in the first point.
+
+\section{Response to reviewer \#3}
+
+\emph{The idea of tri-pattern is interesting.}
+
+\textbf{Response:}
+Thank you for the kind words.
+
+\emph{However, there are several problems in this paper in terms of motivations, contributions and clarity.
+Most of the results come without motivations and comments.}
+
+\textbf{Response:}
+We have tried our best to amend them in this version.
+
+\emph{Why we need tri-pattern?}
+
+\textbf{Response:}
+Tri-pattern is a natural expression in many applications.
+We have discussed three of them in the experimental part.
+
+\emph{How the work is inspired by the theory of three-way decisions?
+What is the relationship between the tri-pattern and the three-way decisions?}
+
+\textbf{Response:}
+3WD is a methodology rather than a concrete technology.
+As depicted in Figure 1, the tri-partition and tri-action is inspired by 3WD.
+
+\emph{The semantic partition in the alphabet system is universal.
+Why did the authors choose three-partition rather than five-partition?
+What is the practical significance of the three-partition?
+The five-partition is also very common from a qualitative point of view.}
+
+\textbf{Response:}
+This is probably the most frequently asked question about 3WD applications.
+As you know, any research has its limitations.
+We choose tri-partition because it is natural for our applications.
+
+\emph{Even though this paper includes a large number of references (about 52 items), some of them can be removed since they are not quite related to the topic of this paper.}
+
+\textbf{Response:}
+We have removed them.
+We also added some in the ``Related work" section.
+
+\emph{The author had provided a review of other's work in the first paragraph.
+However, some of references are not the typical work about frequent pattern discovery.
+Besides, lots of references in the first section are not related to the present work.
+The introduction should review the history or the existing work on three-way decisions.
+But, I cannot find the related work about three-way decisions in this paper.
+Thus, I do not think the work is related to the special issue.
+I think it is better to add a section like ``Related work" to organize more logically the different existing work so that a reader can see clearly the contribution of your paper.
+So, it is not strange there is lack of the comparative results with the recent work.}
+
+\textbf{Response:}
+It is a good suggestion.
+We have added this section.
+
+\emph{The basic idea of the work is to divide the alphabet into three parts corresponding to strong, medium, and weak characters.
+But, what are strong characters, medium characters and weak characters?
+And, different users divide the alphabet differently because they have different criteria.
+How to deal handle the question?
+Definition 3 seems cannot support the latter work. 
+I wondered the authors how to get the three partitions in experiments.}
+
+\textbf{Response:}
+You are right.
+The tri-partition criteria is critical to the approach.
+For some applications the tri-partition is quite natural, while for others they should be
+specified by the domain expert.
+We have added some text to explain our settings for the experiments.
+
+\emph{In Definition 4, I think tri-wildcard just is another name of weak-wildcard. There is no much originality.}
+
+\textbf{Response:} 
+Their difference is the main contribution of this work.
+With weak-wildcard, the alphabet is partitioned in two.
+Type IV and V patterns are based on this existing concept.
+While with tri-wildcard, the alphabet is partitioned in three.
+Type I patterns are based on the new concept.
+
+\emph{In subsection 2.2, Proposition 1 comes from Ref.[27]. But, Eq. (2) is not in the reference. So, what is means?}
+
+\textbf{Response:}
+Eq. (2) comes from Eq. (4) of the reference.
+We use different notations to adapt to this new paper.
+
+\emph{What is the difference between Definition 7 in Ref. [38] and Definition 5 in this work?}
+
+\textbf{Response:}
+These two types of patterns share the same form.
+The difference is how the pattern is formed and matched.
+First, according to our new definition (Definition 5), $p_i$ ($1 \leq i \leq m$) cannot be a weak character.
+The existing definition does not have such requirement.
+Second, the tri-wildcard gap $(N, M)$ in the new definition matches a sequence of medium or weak characters.
+In contrast, a weak-wildcard gap $(N, M)$ in the existing definition only matches a sequence of weak characters.
+
+\emph{Results in Table 5 show that the average values of Type I is not best, please analyze the reasons.}
+
+\textbf{Response:}
+We have added the analysis.
+Unlike other measures such as predication accuracy, pattern popularity is not as strong in assessing its effectiveness.
+
+\emph{The authors should also give the running time of each mode on more data sets.}
+
+\textbf{Response:}
+We have added the running time analysis.
+
+%
+\section{Conclusions}
+We have addressed all of the issues raised by the editor and two reviewers.
+We hope that the revised manuscript meets the standards for acceptance set by Information Sciences.
+
+
+  %
+  %Reference
+  %
+\bibliographystyle{model5-names}
+%\bibliographystyle{elsarticle-num}
+%\bibliographystyle{elsarticle-num-names}
+%\bibliography{bibitems/active}
+%\bibliography{./bib/ACTIVE}
+%\bibliography{ACTIVE}
+
+
+\end{document}

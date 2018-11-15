@@ -1,0 +1,5 @@
+\special{pdf:obj @ocg1 <</Type/OCG /Name (Background)>>}
+ \special{pdf:put @catalog << /OCProperties << /OCGs [@ocg1 ] /D <</BaseState/ON /Order [@ocg1 ]>> >> >>}
+\AddToShipoutPicture{\makeatletter\special {pdf: put @resources << /Properties << 
+/oc1 @ocg1 
+>> >>}\makeatother}
